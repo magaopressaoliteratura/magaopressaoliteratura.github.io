@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dominando o FL Studio Mobile</title>
+</head>
+<body style="margin: 0; font-family: Arial, sans-serif; background: #111; color: #fff; text-align: center; padding: 20px;">
+
+  <h1 style="font-size: 2em; margin-top: 20px;">📘 Dominando o FL Studio Mobile</h1>
+  
+  <img src="capa.jpg" alt="Capa do Livro" style="width: 90%; max-width: 500px; border-radius: 10px; margin: 20px auto;" />
+
+  <p style="font-size: 1.2em;">Aprenda a produzir como um profissional diretamente do seu celular.</p>
+  <p style="font-size: 1.1em;">💰 <strong>Preço:</strong> R$ 24,99 via Pix</p>
+  <p>📱 Chave Pix: <strong>85994074697</strong> (Francisco Rafael da Silva Sousa)</p>
+  <p>📧 Dúvidas? Envie um e-mail para: <strong>bobzinmc@gmail.com</strong></p>
+
+  <footer style="margin-top: 40px; font-size: 0.9em; color: #aaa;">
+    &copy; 2025 MagaopressaoLiteratura. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
